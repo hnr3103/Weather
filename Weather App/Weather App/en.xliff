@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Weather App/Base.lproj/LaunchScreen.xib" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1" build-num="6A1052d"/>
+    </header>
+    <body>
+      <trans-unit id="8ie-xW-0ye.text">
+        <source>  Copyright (c) 2015 apple. All rights reserved.</source>
+        <note>Class = "IBUILabel"; text = "  Copyright (c) 2015 apple. All rights reserved."; ObjectID = "8ie-xW-0ye";</note>
+      </trans-unit>
+      <trans-unit id="kId-c2-rCX.text">
+        <source>Weather App</source>
+        <note>Class = "IBUILabel"; text = "Weather App"; ObjectID = "kId-c2-rCX";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Weather App/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1" build-num="6A1052d"/>
+    </header>
+    <body>
+      <trans-unit id="E8x-za-8qg.text">
+        <source>Label</source>
+        <note>Class = "IBUILabel"; text = "Label"; ObjectID = "E8x-za-8qg";</note>
+      </trans-unit>
+      <trans-unit id="El7-oa-gsp.text">
+        <source>Label</source>
+        <note>Class = "IBUILabel"; text = "Label"; ObjectID = "El7-oa-gsp";</note>
+      </trans-unit>
+      <trans-unit id="Fh1-7e-tJ8.title">
+        <source>Forecaste</source>
+        <note>Class = "IBUINavigationItem"; title = "Forecaste"; ObjectID = "Fh1-7e-tJ8";</note>
+      </trans-unit>
+      <trans-unit id="Hw6-ia-gha.text">
+        <source>Label</source>
+        <note>Class = "IBUILabel"; text = "Label"; ObjectID = "Hw6-ia-gha";</note>
+      </trans-unit>
+      <trans-unit id="VCg-pM-VE9.placeholder">
+        <source>No.of days</source>
+        <note>Class = "IBUITextField"; placeholder = "No.of days"; ObjectID = "VCg-pM-VE9";</note>
+      </trans-unit>
+      <trans-unit id="Xug-6V-sUa.text">
+        <source>Label</source>
+        <note>Class = "IBUILabel"; text = "Label"; ObjectID = "Xug-6V-sUa";</note>
+      </trans-unit>
+      <trans-unit id="Zvs-Vi-skg.placeholder">
+        <source>City</source>
+        <note>Class = "IBUITextField"; placeholder = "City"; ObjectID = "Zvs-Vi-skg";</note>
+      </trans-unit>
+      <trans-unit id="h9S-rr-UbP.text">
+        <source>No. of Days</source>
+        <note>Class = "IBUILabel"; text = "No. of Days"; ObjectID = "h9S-rr-UbP";</note>
+      </trans-unit>
+      <trans-unit id="hhC-DE-d47.text">
+        <source>City</source>
+        <note>Class = "IBUILabel"; text = "City"; ObjectID = "hhC-DE-d47";</note>
+      </trans-unit>
+      <trans-unit id="qhI-xi-IHX.title">
+        <source>Settings</source>
+        <note>Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "qhI-xi-IHX";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Weather App/Info.plist" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1" build-num="6A1052d"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Weather AppTests/Info.plist" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1" build-num="6A1052d"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
